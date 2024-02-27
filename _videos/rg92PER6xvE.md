@@ -54,6 +54,7 @@ This video is brought to you by my patrons. If you'd like to support my channel
 and get access to extras like audio commentaries, a patron exclusive podcast and
 uncut videos you can join by clicking the link in the description.
 </james>
+
 <james>
 Nintendo is a company that is perceived as very conservative socially and in their business
 practices. which isn't really wrong. There's a reason they've been able to weather
@@ -61,6 +62,7 @@ the ups and downs of the video game industry for the last four decades without
 laying off half of their staff; but it's the socially conservative part that i
 think we get wrong.
 </james>
+
 <james>
 For instance Nintendo has this odd, dare I say woke, history of
 action when it comes to gender in gaming. Like, while the gamergate harassment
@@ -68,6 +70,7 @@ campaign against... literally anyone who wasn't a straight white male was going 
 Nintendo released a video game where their most iconic characters dressed up as
 cat boys and a girl, and meow at each other.
 </james>
+
 <james>
 But Nintendo's gender journey didn't start in 2013. they've been on this raucous roller coaster ride since...
 well since the original Nintendo entertainment system. So let's have a look back at the
@@ -111,11 +114,14 @@ James Somerton
 <james>
 <mark fc=false>Nintendo was first founded as Yamauchi Nintendo</mark> in 1889 in kyoto japan.
 </james>
+
 <comment>
 Off to a great start, this is not correct.
 It's likely been taken from https://en.wikipedia.org/w/index.php?title=History_of_Nintendo&oldid=1082730141, the ONE place where it's listed as such.
-Elsewhere it's Nintendo Koppai (Apparently can be read as Karuta, meaning card, japanese is complicated.)
+Elsewhere on wikipedia and other places it's listed as Nintendo Koppai
+(Apparently Koppai can be read as Karuta, meaning card, japanese is complicated.)
 </comment>
+
 at first they solely produced and marketed
 hanafuda playing cards. the cards soon began to rise in popularity and the
 company had to expand to meet the increasing demand. fast forward to 1959 when
